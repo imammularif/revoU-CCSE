@@ -1,7 +1,7 @@
 # revoU-CCSE
 1. Introduction Web Engineer
 2. About Softwere Engineering (Frond-End, Back-end/Data, ETC)
-3. Software Development Lifecycle (Planing, design, inplement, Resting & Integrated(data), deployment, maintenance)
+3. Software Development Lifecycle (Planing, design, implement, Resting & Integrated(data), deployment, maintenance)
 4. git (vision control system)
 5. Tutor Gituhub deskop & Web, clone.
 6. About digital talent gaps

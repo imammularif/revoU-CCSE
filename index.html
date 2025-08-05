@@ -4,9 +4,135 @@
         <meta charset="UTF-8">
         <meta name"viewport" content="width=device-width, iniial-scale=1.0">
         <title>Test REVOU</title>
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     </head>
     <body>
-        <h1>Hello World</h1>
-        <h2>Ini aku, Imoel,,yooo</h2>
+        <p class="text-3xl pb-4
+        text-blue-500 font-bold
+        pl-6 pt-6
+        bg-yellow-100
+        ">Hello World</p>
+        <hr/>
+        <p>nama saya <br/>Imul.</p>
+        <!-- Ini Komentar baris menggunakan ctrl + / -->
+        <h1>Ini heading 1</h1>
+        <h2>Ini heading 2</h2>
+        <h3>Ini heading 3</h3>
+        <h4>Ini heading 4</h4>
+        <h5>Ini heading 5</h5>
+        <h6>Ini heading 6</h6>
+        <p>Text ini ada <b>bold</b>
+        nya, <i>italic</i> nya.</p>
+        <p>Ini tulisan yang <sub>bawah</sub> dan <sup>atas</sup></p>
+
+        <h1>Bullet Point</h1>
+        <ul type="disc">
+            <!-- ununder list -->
+             <li>Pisang <p>Pisang adalah buah-buahan yang biasa
+                dimakan</p></li>
+             <li>Apel</li>
+             <li>Mangga</li>
+             <!-- List item -->
+             <li>Jeruk</li>
+        </ul>
+        <h1>Urutan angka</h1>
+        <!-- orderlist -->
+         <ol type="I">
+            <li>Buka VScodenya</li>
+            <li>Open folder project yang akan dikerjakan</li>
+            <li>Buat file index</li>
+         </ol>
+
+         <h1>Table</h1>
+         <table border="1">
+            <thead>
+                <tr>
+                    <th>Company</th>
+                    <th>Contackt</th>
+                    <th>Country</th>
+                </tr>
+                <tr>
+                    <th>bubu</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Alfreed</td>
+                    <td>ABCDASD</td>
+                    <td>Jermany</td>
+                </tr>
+                <tr>
+                    <td>Budi></td>
+                    <td>Bdui@gmail</td>
+                    <td>USA</td>
+                </tr>
+            </tbody>
+         </table>
+
+         <h1>Gambar</h1>
+         <img src="./images/revou.png"
+         width="100px" height="150px"
+         alt="Logo RevoU"/>
+
+         <img src="https://www.seva.id/wp-content/uploads/2023/11/Raize_Red-1024x768.webp"
+         alt="Mobilmerah" />
+
+         <h1>Link</h1>
+         <p>Ini adalah link ke
+            <a href="" target="_blank">Revou</a>
+        </p>
+        <a href="./second.html">Second html</a>
+        <a href="#lorem">Go to lOREM</a>
+
+        <h1>Form Contact us</h1>
+        <form>
+            <label>nama</label>
+            <input type="text"
+            placeholder="Tulis nama anda..."/>
+            <br/>
+            <label>Umur</label>
+            <input type="number" min="0" max="120"
+            placeholder="19"/>
+            <br/>
+            <label>password</label>
+            <input type="password">
+            <br/>
+            <label>Jenis Kelamin</label>
+            <input type="radio" value="male">Laki-laki
+            <input type="radio" value="female">Perempuan
+
+            <br/>
+            <label>Mkanan Favorit</label>
+            <select>
+                <option value="sate">Nasi Goreng</option>
+                <option value="sate">Sate</option>
+                <option value="soto">soto</option>
+                <option value="bakso">bakso</option>
+                <option value="mie-ayam">mie-ayam</option>
+            </select>
+            <br>
+
+            <label>Comment</label>
+            <br/>
+            <textarea rows="5"cols="30"
+            placeholder="Tulis komentar anda disini..."
+            ></textarea>
+            <br/>
+            <input type="checkbox"/>
+            Saya setuju dengan syarat dan ketentuan
+            <br/>
+            <input type="submit" value="Kirim"/>
+
+            <button type="submit">Send</button>
+        </form>
+       
+
+        <p id="lorem">Lorem ipsum dolor sit amet 
+            consectetur adipisicing elit. Nulla 
+            commodi facilis rem, dolorem eaque dicta 
+            facere? Fuga perferendis accusamus cumque 
+            reiciendis quam odit libero molestiae dolor, 
+            atque placeat delectus laudantium?</p>
+
     </body>
 </html>

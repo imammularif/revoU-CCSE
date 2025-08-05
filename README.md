@@ -10,3 +10,6 @@
 9. Structure, tag HTML
 10. CSS Tailwind
 
+
+note : "walaupun kita introvert, penting kita bisa berkomunikasi #kling2"
+

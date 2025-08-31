@@ -9,6 +9,8 @@
   -----------------------------------------------------------------------------
 9. Structure, tag HTML
 10. CSS Tailwind
+-----------------------------------------------------------------------------
+11. link final project (to-do list) : https://revou-coding-camp.github.io/codingcamp-04-aug-25-imammularif/
 
 
 note : "walaupun kita introvert, penting kita bisa berkomunikasi #kling2"

@@ -2,8 +2,11 @@
 
 A simple To-Do List web application built to demonstrate fundamental software engineering concepts and interactive web development.
 
-## 📌 Project Overview  
 ...
+
+## 📌 Project Overview  
+
+
 This project is a simple To-Do List web application built during the RevoU Coding Camp as part of my journey in learning software engineering fundamentals.  
 
 The goal of this project is to understand how to build a functional web application while applying the Software Development Lifecycle (SDLC) from planning to deployment.

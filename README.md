@@ -67,7 +67,7 @@ Deployed the application using GitHub Pages for public access.
 ![Add Task](https://github.com/imammularif/revoU-CCSE/blob/main/images/todo-add-task.png)
 
 ### ✅ Completed Task  
-![Completed Task](assets/todo-completed.png)
+![Completed Task](https://github.com/imammularif/revoU-CCSE/blob/main/images/todo-completed.png)
 
 ---
 

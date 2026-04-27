@@ -2,7 +2,6 @@
 
 A simple To-Do List web application built to demonstrate fundamental software engineering concepts and interactive web development.
 
-...
 
 ## 📌 Project Overview  
 

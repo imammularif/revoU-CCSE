@@ -64,7 +64,7 @@ Deployed the application using GitHub Pages for public access.
 ![Main UI](https://github.com/imammularif/revoU-CCSE/blob/main/images/todo-main-ui.png)
 
 ### ➕ Add Task Feature  
-![Add Task]([assets/todo-add-task.png](https://github.com/imammularif/revoU-CCSE/blob/main/images/todo-add-task.png))
+![Add Task](https://github.com/imammularif/revoU-CCSE/blob/main/images/todo-add-task.png)
 
 ### ✅ Completed Task  
 ![Completed Task](assets/todo-completed.png)

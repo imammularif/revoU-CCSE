@@ -1,123 +1,111 @@
 # 🚀 Task Management Web App
 
+A clean, interactive, and responsive Task Management web application engineered to demonstrate foundational frontend architecture, modern styling, and core software development workflows.
+
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Framework-blue)
 ![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-success)
 
-A simple and interactive Task Management web application built using HTML, Tailwind CSS, and JavaScript to demonstrate fundamental frontend development and software engineering concepts.
-
 ---
 
 ## 📌 Project Overview
 
-This project was developed as part of my frontend development learning journey to understand how modern web applications are built from planning to deployment.
+This project was built to explore the end-to-end lifecycle of a web application—bridging the gap between UI design, dynamic functional implementation, and cloud deployment. 
 
-The application allows users to manage daily tasks through a clean and interactive interface while applying core Software Development Lifecycle (SDLC) principles.
+The core focus centers on implementing clean Software Development Lifecycle (SDLC) methodologies while ensuring an intuitive, accessible user experience for daily task organization.
 
 ---
 
 ## 🎯 Objectives
-- Build an interactive web application
-- Understand frontend development fundamentals
-- Apply Software Development Lifecycle (SDLC)
-- Practice Git & GitHub workflow
-- Improve UI structure and usability
+
+- **Dynamic UI Development:** Build a highly interactive interface utilizing vanilla JavaScript DOM manipulation.
+- **SDLC Implementation:** Practice structured software planning, creation, testing, and shipping.
+- **Responsive Styling:** Master modern utility-first CSS layouts that scale across device screens.
+- **CI/CD & Version Control:** Enforce professional Git branch management and automated public deployment.
 
 ---
 
-## ⚙️ Tech Stack
-- HTML
-- Tailwind CSS
-- JavaScript
-- Git & GitHub
-- GitHub Pages
+## ⚙️ Tech Stack & Highlights
+
+- **Frontend Core:** HTML5, Vanilla JavaScript (ES6+)
+- **Styling Engine:** Tailwind CSS Framework
+- **Version Control:** Git & GitHub Architecture
+- **Hosting Environment:** GitHub Pages Deployment
 
 ---
 
-## 🚀 Tech Highlights
-- Interactive task management system
-- Dynamic DOM manipulation with JavaScript
-- Responsive UI using Tailwind CSS
-- Clean and simple user interface
-- Public deployment using GitHub Pages
+## 🔄 SDLC Development Process
+
+```mermaid
+graph LR
+    A[1. Planning] --> B[2. UI/UX Design]
+    B --> C[3. Implementation]
+    C --> D[4. Testing & QA]
+    D --> E[5. Cloud Deployment]
+```
+
+1. **Planning:** Outlined features for optimal day-to-day productivity and layout efficiency.
+2. **Design:** Wireframed a minimalistic workspace avoiding UI clutter.
+3. **Implementation:** Developed semantic HTML frameworks, structured logical JavaScript functions, and styled elements via Tailwind tokens.
+4. **Testing & Integration:** Validated component interactions, dynamic state updates, and potential edge-case bug handling.
+5. **Deployment:** Pushed source branches to automated GitHub Pages architecture for public rendering.
 
 ---
 
-## ⚙️ Development Process
+## 🌟 Core Features
 
-### 1. Planning
-Designed the idea of creating a task management application to help users organize daily activities efficiently.
-
-### 2. Design
-Created a clean and user-friendly interface layout focused on simplicity and usability.
-
-### 3. Implementation
-Developed the application using:
-- HTML for structure
-- Tailwind CSS for styling
-- JavaScript for interactive functionality
-
-### 4. Testing & Integration
-Tested application features to ensure proper functionality and smooth interaction between components.
-
-### 5. Deployment
-Deployed the project using GitHub Pages for public access and portfolio purposes.
+- ➕ **Dynamic Task Insertion:** Seamlessly append new tasks onto the display register.
+- 🗑️ **On-the-Fly Deletion:** Instantly remove absolute or unneeded objective cards.
+- ✅ **State Modification:** Toggle visual strikethroughs and completion states.
+- 📱 **Fluid Responsiveness:** Full interface accessibility optimized for mobile, tablet, and desktop viewports.
 
 ---
 
-## 🌟 Features
-- ➕ Add new tasks
-- 🗑️ Delete tasks
-- ✅ Mark tasks as completed
-- 🎨 Responsive and clean UI
+## 📸 Interface Preview
+
+<div align="center">
+
+
+| **Main Workspace Interface** | **Contextual Feature Action** |
+| :---: | :---: |
+| <img src="https://github.com/imammularif/task-management-app/blob/main/images/todo-main-ui.png" width="400"/> | <img src="https://github.com/imammularif/task-management-app/blob/main/images/todo-add-task.png" width="400"/> |
+
+<br>
+
+
+| **Completed Task States** |
+| :---: |
+| <img src="https://github.com/imammularif/task-management-app/blob/main/images/todo-completed.png" width="400"/> |
+
+</div>
 
 ---
 
-## 🌐 Live Demo
-🔗 https://revou-coding-camp.github.io/codingcamp-04-aug-25-imammularif/
+## 🌐 Live Application Demo
 
----
-
-## 📸 Preview
-
-### 🏠 Main Interface
-![Main UI](https://github.com/imammularif/task-management-app/blob/main/images/todo-main-ui.png)
-
-### ➕ Add Task Feature
-![Add Task](https://github.com/imammularif/task-management-app/blob/main/images/todo-add-task.png)
-
-### ✅ Completed Task
-![Completed Task](https://github.com/imammularif/task-management-app/blob/main/images/todo-completed.png)
+✨ **Explore the Live Site:** [Task Management Web App Demo](https://revou-coding-camp.github.io/codingcamp-04-aug-25-imammularif/)
 
 ---
 
 ## 🧠 Key Learnings
-- Understanding Software Development Lifecycle (SDLC)
-- Building interactive web applications
-- Managing frontend workflows
-- Using Git & GitHub for version control
-- Writing structured and maintainable code
+
+- Managing reactive software components without bloated external framework dependencies.
+- Translating structural software blueprints into clean, deployable production code.
+- Debugging real-time state array updates inside the client-side browser DOM.
 
 ---
 
 ## 🚀 Future Improvements
-- Add task deadline feature
-- Implement local storage / database
-- Add task filtering system
-- Improve responsive mobile experience
-- Enhance UI/UX design
 
----
-
-## 💡 Reflection
-This project strengthened my understanding of frontend development, application workflow, and interactive UI implementation using JavaScript.
-
-It also improved my ability to structure projects more professionally and think beyond functionality toward usability and user experience.
+- 💾 **Persistence Layer:** Integrate LocalStorage API to save states across browser sessions.
+- 📅 **Schedule Anchors:** Add contextual dates, deadlines, and sortable timelines.
+- 🔍 **Query Filters:** Implement search criteria for pending, processing, and completed categories.
 
 ---
 
 ## 👨‍💻 Author
+
 **Imammul Arif**  
 📍 Indonesia  
 🔗 LinkedIn: https://linkedin.com/in/imammularif  
